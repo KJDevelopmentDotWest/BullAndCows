@@ -104,9 +104,5 @@ void gameLoop(){
         cout << firstPlayerSuggestedNums.at(i) << "\n";
     }
 
-//    if (firstPlayerSavedNum == secondPlayerSavedNum){
-//        isGameRunning = false;
-//    }
-
     cout << "\t" << "Suggest New Number" << "\n";
 }
