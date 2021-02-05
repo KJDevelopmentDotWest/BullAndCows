@@ -98,6 +98,7 @@ bool isNumAppropriate(vector<int> key){
 }
 
 void gameLoop(){
+
     cout << "First Player Turn:" << "\n";
     cout << "\t" << "Previously Suggested Numbers:" << "\n";
     for (int i : firstPlayerSuggestedNums) {
